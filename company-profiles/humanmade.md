@@ -20,7 +20,7 @@ Worldwide
 
 ## Company technologies
 
-WordPress, PHP, Javascript, server technologies?
+WordPress, PHP, Javascript, AWS, sysops
 
 ## Office Locations
 
